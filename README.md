@@ -2,7 +2,7 @@
 
 **`Graduanda em Sistemas de Informação`**
 
-Sou formada em Desenvolvimento de Sistemas pelo Ensino Médio Técnico e atualmente graduanda em Sistemas de Informação, atuei como menor aprendiz na área administrativa, onde aprimorei minha organização e domínio total do Pacote Office. Estou em busca de oportunidades que me permitam crescer profissionalmente, aplicar meus conhecimentos e aprofundar meu aprendizado nessas áreas que estão conectadas e que me encantam cada vez mais: dados, sistemas e arquitetura de software.
+Sou formada em Desenvolvimento de Sistemas pelo Ensino Médio Técnico e atualmente graduanda em Sistemas de Informação. Estou em busca de oportunidades que me permitam crescer profissionalmente, aplicar meus conhecimentos e aprofundar meu aprendizado nessas áreas que estão conectadas e que me encantam cada vez mais: dados, sistemas e arquitetura de software.
 
 Me acompanhe no [meu perfil no Linkedin](https://www.linkedin.com/in/sofiarigo)!
 
